@@ -4,7 +4,7 @@
 Athmiya H G
 
 ## Subject
-B.Tech – Fundamentals of AI&ML
+ Fundamentals of AI&ML
 
 ## Brief Overview
 This repository contains reports for three individual tasks focusing on key topics in intelligence, data handling, and machine learning fundamentals. Each task explores important concepts and provides academic insights for better understanding.
