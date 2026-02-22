@@ -1,7 +1,7 @@
 # Project Title: Big Data Analysis Report
 
 ## Author
-**Nikhita**  
+**Athmiya H G**  
 B.Tech Student
 
 ## Subject
